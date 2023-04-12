@@ -27,7 +27,7 @@
     
    ##
   
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block">
   <img align="center" alt="Isrlot-css" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Isrlot-html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Isrlot-java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -41,7 +41,7 @@
   <img align="center" alt="Isrlot-vscode" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Isrlot-git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Isrlot-photo" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-
+  </div>
 
 ##
 
