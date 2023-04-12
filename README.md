@@ -13,7 +13,12 @@
    <a href="https://www.linkedin.com/in/israel-silva-96290916b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="max-width: 100%;"></a>
    <a href = "mailto:isrlsilva0604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
 <a href="https://www.instagram.com/isrlsilva/" target="_blank"><img src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fgithub.com%2Fisrlot" style="max-width: 100%;"></a>
+  
+  ##
+  
+  <h3> 📚 Estatísticas do Github: <br></h3>
 
+  
   <div align="center">
   <a href="https://github.com/isrlot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isrlot&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -37,11 +42,6 @@
   <img align="center" alt="Isrlot-git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Isrlot-photo" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
-
-  
-
-
-</div>
 
 ##
 
