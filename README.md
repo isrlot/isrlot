@@ -10,9 +10,9 @@
   
   <div>  
   
-   <a href="https://github.com/isrlot" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/israel-silva-96290916b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:isrlsilva0604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-<a href="https://github.com/isrlot" target="_blank"><img src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fgithub.com%2Fisrlot alvo ="_blank"></a>
+<a href="https://www.instagram.com/isrlsilva/" target="_blank"><img src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fgithub.com%2Fisrlot"></a>
 
   <div align="center">
   <a href="https://github.com/isrlot">
